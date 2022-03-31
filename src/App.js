@@ -7,7 +7,7 @@ function App() {
       <Navigation />
       {/*<Logo />
       <ImageLinkForm />
-      <FaceRecognition />*/}
+      <FaceRecognition /><p>*/}
     </div>
   );
 }
